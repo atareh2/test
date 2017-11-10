@@ -6,6 +6,8 @@ body {
  #pp-nav li .active span, .pp-slidesNav .active span {
     background: #bbb;
 }
+
+
 #pp-nav span, .pp-slidesNav span {
     border-color: #bbb !important;
 }
@@ -27,6 +29,17 @@ body {
     background-image: url(../imgs/colourfulnophone.png);
 }
 
+#section4 .content {
+    top: 100%;
+    position: absolute;
+    left: 0;
+    background-color: dimgray;
+}
+
+#section4  {
+
+    background-color: dimgray;
+}
 
 	 * --------------------------------------- */
 
@@ -39,9 +52,7 @@ body {
     -webkit-transition: all 0.7s cubic-bezier(0.7, 0.01, 0.3, 1);
     transition: all 0.7s cubic-bezier(0.7, 0.01, 0.3, 1);
 }
-#arrow:hover {
-    background: #EC008C;
-}
+
 #arrow:hover span {
     top: 0;
     color: #FFF;
@@ -55,7 +66,7 @@ body {
     width: 100%;
 }
 .intro h1 {
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-weight: bold;
     color: #000;
 }
