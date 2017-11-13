@@ -20,10 +20,10 @@ body {
     background-repeat: no-repeat;
 }
 #section1 {
-    background-image: url(../imgs/colourful-background-ppjs.png);
+    background-image: url(../imgs/graybac-iphonex.png);
 }
 #section2 {
-    background-image: url(../imgs/grayscale-ppjs.png);
+    background-image: url(../imgs/colorback-iphonex.png);
 }
 #section3 {
     background-image: url(../imgs/colourfulnophone.png);
@@ -33,13 +33,8 @@ body {
     top: 100%;
     position: absolute;
     left: 0;
-    background-color: dimgray;
 }
 
-#section4  {
-
-    background-color: dimgray;
-}
 
 	 * --------------------------------------- */
 
@@ -53,7 +48,7 @@ body {
     transition: all 0.7s cubic-bezier(0.7, 0.01, 0.3, 1);
 }
 
-#arrow:hover span {
+#arrow: hover span {
     top: 0;
     color: #FFF;
 }
@@ -91,7 +86,7 @@ body {
 .page {
     width: 80%;
     margin: 60px auto;
-    background:white;
+    background: gray;
     padding: 60px;
     -webkit-box-sizing: border-box;
     /* Safari<=5 Android<=3 */
@@ -103,5 +98,5 @@ body {
     font-style: 12px;
     margin: 20px 0 0 0;
     line-height: 1.35em;
-    color: #333;
+    color: #fff;
 }

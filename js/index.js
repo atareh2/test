@@ -4,14 +4,14 @@
 $('#pagepiling').pagepiling({
     verticalCentered: false,
     css3: false,
-    sectionsColor: ['white', '#E8E8E8', '#f2f2f2', '#696969'],
+    sectionsColor: ['white', 'white', 'white', 'black'],
     onLeave: function (index, nextIndex, direction) {
 
         //fading out the txt of the leaving section
-        $('.section').eq(index - 1).find('h1, p').fadeOut(700, 'easeInQuart');
+        $('.section').eq(index - 1).find('h1, p').fadeOut(600, 'easeInQuart');
 
         //fading in the text of the destination (in case it was fadedOut)
-        $('.section').eq(nextIndex - 1).find('h1, p').fadeIn(700, 'easeInQuart');
+        $('.section').eq(nextIndex - 1).find('h1, p').fadeIn(800, 'easeInQuart');
 
 
         //reaching our last section? The one with our normal site?
