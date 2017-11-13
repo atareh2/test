@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif, arial, helvetica;
+    font-family: avenir, helvetica;
 }
 /* Navigaton bullets styles
  * --------------------------------------- */
@@ -7,6 +7,10 @@ body {
     background: #bbb;
 }
 
+body:after{
+ display:none;
+ content: url(../imgs/pixel-gray-android.png) url(../imgs/pixel-color-android.png) url(../imgs/iphone-gray-iphone.png) url(../imgs/iphone-color-iphone.png);
+}
 
 #pp-nav span, .pp-slidesNav span {
     border-color: #bbb !important;
@@ -48,10 +52,6 @@ body {
     transition: all 0.7s cubic-bezier(0.7, 0.01, 0.3, 1);
 }
 
-#arrow: hover span {
-    top: 0;
-    color: #FFF;
-}
 /* Intro texts
 	 * --------------------------------------- */
  .intro {
@@ -83,11 +83,17 @@ body {
     color: #f2f2f2;
     font-size: 1.7em;
 }
+
+iframe {
+    box-sizing: border-box;
+
+}
 .page {
-    width: 80%;
+    width: 70% ;
     margin: 60px auto;
-    background: gray;
-    padding: 60px;
+    background: white;
+    border-radius: 20px;
+    padding: 50px;
     -webkit-box-sizing: border-box;
     /* Safari<=5 Android<=3 */
     -moz-box-sizing: border-box;
@@ -99,4 +105,120 @@ body {
     margin: 20px 0 0 0;
     line-height: 1.35em;
     color: #fff;
+}
+
+.phone-column {
+        width: 20%;
+        position: absolute;   
+}
+
+
+.w-container {
+    text-align: center;
+    float:center;
+}
+
+.column-3 {
+    display: inline-grid;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0px 40px 0px;
+
+}
+
+
+.column-4 {
+    display: inline-grid;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0px 40px 0px;
+}
+
+.heading-4 {
+  text-align: center;
+}
+
+.heading-5 {
+  text-align: center;
+}
+
+.image-7 {
+    margin-top: 22px;
+    margin-left: 0px;
+  }
+
+
+@media (max-width: 767px) {
+  .image {
+    padding-top: 76px;
+  }
+  .heading-2 {
+    margin-top: -652px;
+    padding-top: 0px;
+    text-align: center;
+  }
+  .image-6 {
+    margin-top: 22px;
+    margin-left: 0px;
+  }
+  .image-7 {
+    margin-top: 22px;
+    margin-left: 0px;
+  }
+  .column-3 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+  .column-4 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+}
+
+@media (max-width: 479px) {
+  .image {
+    margin-top: 153px;
+  }
+  .body {
+    background-image: none;
+  }
+  .heading-2 {
+    margin-top: -655px;
+  }
+
+  .image-6 {
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+}
+
+.image-6:hover {
+    content: url('../imgs/iphone-gray-iphone.png');
+    position:relative;
+}
+
+.image-7:hover {
+    content: url('../imgs/pixel-gray-android.png');
+    position:relative;
+    
 }

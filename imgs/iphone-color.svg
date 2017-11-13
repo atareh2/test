@@ -1,75 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 478 954" style="enable-background:new 0 0 478 954;" xml:space="preserve">
+	 viewBox="0 0 478 1047.4" style="enable-background:new 0 0 478 1047.4;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#10081E;}
-	.st1{fill:#010003;}
-	.st2{fill:none;}
-	.st3{fill:#FFFFFF;}
-	.st4{font-family:'SFUIDisplay-Regular';}
-	.st5{font-size:13px;}
+	.st0{fill:none;}
+	.st1{font-family:'Avenir-Heavy';}
+	.st2{font-size:88px;}
 </style>
-<g>
-	<g id="Artboard_1">
-		<g id="iPhone">
-			<path id="Bezel" class="st0" d="M465.6,223.4V76.3c0-37.8-30.1-68.4-67.2-68.4H79.2C42.1,7.9,12,38.5,12,76.3v58.2
-				c-2.7,0.9-4.5,3.5-4.4,6.3v23.3c0,2.8,1.8,5.4,4.4,6.3v27.1c-2.7,0.9-4.5,3.5-4.4,6.3v59.1c0,2.8,1.8,5.4,4.4,6.3v17.3
-				c-2.7,0.9-4.5,3.5-4.4,6.3v59.1c0,2.8,1.8,5.4,4.4,6.3v519.6c0,37.8,30.1,68.4,67.1,68.4h319.3c37.1,0,67.2-30.6,67.2-68.4V335.2
-				c2.9-0.8,4.8-3.4,4.8-6.4v-99C470.4,226.8,468.5,224.2,465.6,223.4z M456.7,878.5c0,32.7-26.1,59.3-58.2,59.3H79.1
-				c-32.2,0-58.2-26.5-58.2-59.3v-803c0-32.7,26.1-59.3,58.2-59.3h319.4c32.1,0,58.2,26.6,58.2,59.3V878.5z"/>
-			<path id="Bezel-2" class="st1" d="M398.6,16H79.3c-32.1,0-58.2,26.6-58.2,59.3v803.2c0,32.8,26,59.3,58.2,59.3h319.3
-				c32.1,0,58.2-26.6,58.2-59.3V75.3C456.7,42.6,430.7,16,398.6,16z M444.2,880.1c0,23.9-19,43.4-42.5,43.4H76.2
-				c-23.5,0-42.5-19.4-42.5-43.4V73.7c0-23.9,19-43.4,42.5-43.4H120v0.4c3.4,0,6.1,2.8,6.1,6.2c0,6.9,2.7,13.6,7.5,18.5
-				c4.8,4.9,11.3,7.7,18.2,7.7h173.1c14.2,0,25.7-11.7,25.7-26.2c0-1.6,0.7-3.2,1.8-4.4c1.1-1.2,2.7-1.8,4.3-1.8v-0.4h44.9
-				c23.5,0,42.5,19.4,42.5,43.4V880.1z"/>
-			<g id="Screen_Object">
-			</g>
-			<path class="st0" d="M465.6,335L465.6,335c2.7,0,4.9-2.3,4.9-5V227.7c0-2.7-2.1-4.9-4.9-5l0,0V335z M12.4,358L12.4,358
-				c-2.7,0-4.9-2.3-4.9-5v-61.8c0-2.7,2.1-4.9,4.9-5l0,0V358z M12.4,268.4L12.4,268.4c-2.7,0-4.9-2.3-4.9-5v-61.8
-				c0-2.7,2.1-4.9,4.9-5l0,0V268.4L12.4,268.4z M12.4,169.4L12.4,169.4c-2.7,0-4.9-2.3-4.9-5v-26.1c0-2.7,2.1-4.9,4.9-5l0,0V169.4
-				L12.4,169.4z"/>
-		</g>
-	</g>
-	<g>
-		<g>
-			<defs>
-				<path id="SVGID_1_" d="M403.9,923.5H76.6C52.5,923.5,33,904,33,879.9V73.6C33,49.5,52.5,30,76.6,30h327.3
-					c24.1,0,43.6,19.5,43.6,43.6v806.3C447.5,904,427.9,923.5,403.9,923.5z"/>
-			</defs>
-			<clipPath id="SVGID_2_">
-				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-			</clipPath>
-			<g style="clip-path:url(#SVGID_2_);">
-				
-					<image style="overflow:visible;" width="1940" height="1300" xlink:href="../../iPhone-X-Gear-Patrol-Slide-1-1940x1300.jpg"  transform="matrix(0.8145 0 0 0.8092 -550.738 -48.8732)">
-				</image>
-			</g>
-		</g>
-		<g id="ZUTyQc.tif">
-			
-				<image style="overflow:visible;" width="398" height="398" id="Layer_0_1_" xlink:href="B908B48042BBCBA8.png"  transform="matrix(0.1625 0 0 0.1615 159.5698 667.2802)">
-			</image>
-		</g>
-		<path class="st2" d="M217.1,752.3h-50.4c-3.3,0-6-2.7-6-5.9v0c0-3.3,2.7-5.9,6-5.9h50.4c3.3,0,6,2.7,6,5.9v0
-			C223.1,749.6,220.4,752.3,217.1,752.3z"/>
-		<text transform="matrix(1.0066 0 0 1 163.4639 749.9258)" class="st3 st4 st5">Instagram</text>
-		<path class="st2" d="M410.6,644.5h-50.4c-3.3,0-6-2.7-6-5.9l0,0c0-3.3,2.7-5.9,6-5.9h50.4c3.3,0,6,2.7,6,5.9l0,0
-			C416.6,641.9,413.9,644.5,410.6,644.5z"/>
-		<text transform="matrix(1.0066 0 0 1 356.9902 642.2207)" class="st3 st4 st5">Facebook</text>
-		<path class="st2" d="M123.1,752.3H72.7c-3.3,0-6-2.7-6-5.9v0c0-3.3,2.7-5.9,6-5.9h50.4c3.3,0,6,2.7,6,5.9v0
-			C129.1,749.6,126.4,752.3,123.1,752.3z"/>
-		<text transform="matrix(1.0066 0 0 1 69.4399 749.9258)" class="st3 st4 st5">Snapchat</text>
-		<g id="_x35_CTJiZ.tif">
-			
-				<image style="overflow:visible;" width="299" height="298" id="Layer_0_2_" xlink:href="B908B48042BBCBAF.png"  transform="matrix(0.217 0 0 0.2156 64.1698 667.2802)">
-			</image>
-		</g>
-		<g id="OCSjov.tif">
-			
-				<image style="overflow:visible;" width="250" height="250" id="Layer_0_4_" xlink:href="B908B48042BBCBA9.png"  transform="matrix(0.2587 0 0 0.257 350.4476 561.2808)">
-			</image>
-		</g>
-	</g>
-</g>
+<rect x="30.5" y="10.8" class="st0" width="420.3" height="67.8"/>
+<text transform="matrix(1 0 0 1 99.6766 77.2849)" class="st1 st2">iPhone</text>
+<image style="overflow:visible;" width="478" height="954" xlink:href="iphone-color.png"  transform="matrix(1 0 0 1 1.6062 89.4417)">
+</image>
 </svg>
